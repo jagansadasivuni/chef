@@ -164,7 +164,7 @@ GEM
     citrus (3.0.2)
     cleanroom (1.0.0)
     concurrent-ruby (1.1.6)
-    diff-lcs (1.4.3)
+    diff-lcs (1.4.4)
     ed25519 (1.2.4)
     equatable (0.6.1)
     erubi (1.9.0)
